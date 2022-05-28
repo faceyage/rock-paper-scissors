@@ -1,0 +1,27 @@
+body {
+    background-color: #16191A;
+    color: white;
+}
+
+.logo {
+    background-color: #006868;
+    padding: 20px;
+    border-radius: 1rem;
+}
+.container {
+    text-align: center;
+}
+
+#info {
+    font-size: 20px;
+}
+
+button {
+    height: 40px;
+    width: 80px;
+    border-radius: 0.25rem;
+    border: 1px solid rgb(0, 223, 223);
+    margin: 10px;
+    background-color: #16191A;
+    color: white;
+ }
